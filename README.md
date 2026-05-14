@@ -55,22 +55,22 @@ Amazon-Prime-Data-Analysis
 
 The dataset was cleaned using Python with the following steps:
 
-Imported the dataset using Pandas.
-Checked for missing values.
-Removed duplicate records.
-Converted date columns to proper datetime format.
-Split multi-value columns such as Genre and Country.
-Standardized text formatting.
-Exported the cleaned dataset to CSV.
-Connected the cleaned data to Power BI.
+1.Imported the dataset using Pandas.
+2.Checked for missing values.
+3.Removed duplicate records.
+4.Converted date columns to proper datetime format.
+5.Split multi-value columns such as Genre and Country.
+6.Standardized text formatting.
+7.Exported the cleaned dataset to CSV.
+8.Connected the cleaned data to Power BI.
 
 **📊 Dashboard Features**
 
 The Power BI dashboard includes:
 
-KPI Cards (Total Titles, Movies, TV Shows)
-Genre Distribution Chart
-Country-wise Content Map
-Release Year Trend Analysis
-Ratings Breakdown
-Interactive Filters and Slicers
+. KPI Cards (Total Titles, Movies, TV Shows)
+. Genre Distribution Chart
+. Country-wise Content Map
+. Release Year Trend Analysis
+. Ratings Breakdown
+. Interactive Filters and Slicers
