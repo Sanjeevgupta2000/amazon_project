@@ -1,6 +1,6 @@
 # 📺 Amazon Prime Video Data Analysis Dashboard
 
-A complete end-to-end Data Analytics project that analyzes the :contentReference[oaicite:0]{index=0} Prime Video dataset using **Python for data cleaning and preprocessing** and **:contentReference[oaicite:1]{index=1} Power BI for interactive dashboard creation**.
+A complete end-to-end Data Analytics project that analyzes the  Prime Video dataset using Python for data cleaning and preprocessing and  Power BI for interactive dashboard creation.
 
 This project provides valuable insights into Amazon Prime Video content, including movies and TV shows, based on genres, ratings, release years, countries, and content types.
 
