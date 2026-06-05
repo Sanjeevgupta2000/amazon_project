@@ -13,7 +13,7 @@ The objective of this project is to:
 - Clean and preprocess raw Amazon Prime Video data using Python.
 - Handle missing values and transform columns into a structured format.
 - Connect the cleaned dataset to Power BI.
-- Create an interactive and visually appealing dashboard.
+- Create an interactive visually appealing dashboard.
 - Generate business insights from the data.
 
 ---
